@@ -6,7 +6,7 @@
        OS  :  wd10
 Languages  :  py, js, web, c#
   Discord  :  873612915079520348
- Interest  :  osint, web, 
+ Interest  :  osint, web, pentest 
 ```
 
 ```json
