@@ -4,9 +4,9 @@
 
 ```python
        OS  :  wd10
-Languages  :  Node.JS, Java, Js, Batch, C, HTML/CSS
+Languages  :  py, js, web, c#
   Discord  :  873612915079520348
-   Server  :  924461901033926697
+ Interest  :  osint, web, 
 ```
 
 ```json
