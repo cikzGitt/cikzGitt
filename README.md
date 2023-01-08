@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cikzGit" alt="Profile Forks"></a>
 
 ```python
-       OS  :  wd10
+       OS  :  wd10, kali
 Languages  :  py, js, web, c#
   Discord  :  873612915079520348
  Interest  :  opsec, dev/debug, osint, web, pentest
